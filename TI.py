@@ -1,0 +1,4 @@
+factory = []
+distribution =[]
+shop = []
+
